@@ -1,6 +1,7 @@
 # Python-with-Sqlite
 
 python script which implements the below function. sqlite is attached for accessing the databse<br>
+
 <b>Note:</b> Find the battery diagram in the below document<br>
 https://github.com/soumyarmardur/Python-with-Sqlite/blob/master/Battery%20Diagram.pdf
 
